@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "hammer";
+    src: url("/css/hammer.woff") format('woff');
+}
+body {
+    /* margin: 10px; */
+    font-family: hammer, sans-serif;
+    background: white;
+    background-image: url(/bg_kob.jpg);
+    background-position-x: right;
+    background-size: cover;
+    color: #00625a;
+    font-size: 1.3em;
+}
+#page {
+    margin: 10px;
+}
+div#logo-kobkob {
+    float: right;
+    width: 237px;
+    margin: auto;
+}
+div#logo-ee {
+    float: right;
+    width: 100px;
+    margin: auto;
+}
+img {
+    width:100%;
+}
+li {
+    list-style: none;
+}
+
+div#header{
+    margin:0;
+    background: white;
+}
+h1#ricardo-filipo-monsenhor {
+    color: #225f57;
+    margin: 2px;
+    margin-left: 53px;
+}
+h2 {
+    margin:2px;
+    font-size: 1.7em;
+}
+div#header img {
+    width: 30%;
+    margin:auto;
+}
+div#photo {
+    width: 198px;
+    float: left;
+    margin: 50px 0px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+section {
+    max-width: 1098px;
+}
+.section {
+    background: #47b09c;
+    color: white;
+    margin: 0;
+    padding: 6px 12px;
+    max-width: 1098px;
+}
+.section-title {
+    width: 395px;
+    text-align: right;
+}
+#section-summary {
+    padding-left: 406px;
+    background-image: url(../left_0.jpg);
+    background-repeat: repeat-y;
+}
+#section-education {
+    padding-left: 406px;
+    background-image: url(../left_1.jpg);
+    background-repeat: repeat-y;
+}
+#section-experience {
+    padding-left: 406px;
+    background-image: url(../left_4.jpg);
+    background-repeat: repeat-y;
+}
+#section-work {
+    padding-left: 406px;
+    background-image: url(../left_2.jpg);
+    background-repeat: repeat-y;
+}
+#section-links {
+    padding-left: 406px;
+    background-image: url(../left_3.jpg);
+    background-repeat: repeat-y;
+}
+div#footer{}
