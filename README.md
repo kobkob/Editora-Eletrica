@@ -21,4 +21,4 @@ hypnotoad ./editora_eletrica.pl
 ```
 
 # SETUP
-Edit the file editora_eletrica.conf and write the user and repo to match your gitHub adress.
+Edit the file editora_eletrica.conf and write the user and repo to match your GitHub address.
