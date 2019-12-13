@@ -1,0 +1,5 @@
+language: perl
+perl:
+  - "5.20"
+install:
+  - cpanm --installdeps .
