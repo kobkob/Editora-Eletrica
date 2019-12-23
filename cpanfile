@@ -1,4 +1,3 @@
-requires "Carp";
 requires "Mojolicious";
 requires "Pithub";
 requires "Encode";
