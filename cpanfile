@@ -1,3 +1,4 @@
+requires "Module::Build";
 requires "Mojolicious";
 requires "Pithub";
 requires "Encode";
