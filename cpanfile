@@ -1,4 +1,5 @@
 requires "Module::Build";
+requires "Test::Perl::Critic";
 requires "Mojolicious";
 requires "Pithub";
 requires "Encode";
