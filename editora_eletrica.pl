@@ -1,11 +1,6 @@
 #!/usr/bin/env perl
 use Mojolicious::Lite;
 use Mojo::JSON qw(decode_json encode_json);
-use Pithub;
-use Encode;
-use MIME::Base64;
-use Text::MultiMarkdown 'markdown';
-
 use Data::Dumper;
 
 # Using the trader.conf file
