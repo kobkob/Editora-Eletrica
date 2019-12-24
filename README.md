@@ -1,6 +1,10 @@
 # Editora-Eletrica
 Electric Books for everyone
 
+<a href="https://ee.kobkob.org/">
+<img src="http://ee.kobkob.org/img/logo_ee.png" width="100">
+</a>
+
 [![Build Status](https://api.travis-ci.com/kobkob/Editora-Eletrica.svg?branch=master)](https://travis-ci.com/kobkob/Editora-Eletrica)
 
 It reads a GitHub repo tree and creates a book on the fly. Each directory must have a __README.md__ file to be parsed as a __Chapter__. 
