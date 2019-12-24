@@ -18,7 +18,7 @@ Run the commands bellow as a regular user:
 
 ```
 wget https://gist.githubusercontent.com/rfilipo/561f0d160b4ffb330942def5cf002f24/raw/fa0733010fa3a31bd7b3956a6366b17fad0b151b/editora_eletrica.sh
-
+sh editora_eletrica.sh
 cd Editora-Eletrica
 hypnotoad ./editora_eletrica.pl
 ```
